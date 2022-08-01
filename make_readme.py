@@ -24,7 +24,7 @@ def send_book_to_mail(path_to_book):
     msg['To'] = os.getenv('TO')
     with open(path_to_book, "rb") as f:
         attach = MIMEApplication(f.read(),_subtype="pdf")
-        attach.add_header('Content-Disposition','attachment',filename=str(path_to_book))
+        attach.add_header('Content-Disposition','attachment',filename=str(path_to_book[path_to_book.rfind('/')+1:]))
         msg.attach(attach)
         server.send_message(msg)
         print('A book has been sent - path: {}\n'.format(path_to_book))
