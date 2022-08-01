@@ -6,15 +6,12 @@ from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import smtplib
-import aspose.words as aw
 
 load_dotenv()
-
+# sudo apt install calibre
 def transform_pdf_to_epub(path_to_book):
-    doc = aw.Document(path_to_book)
-    path_to_book = path_to_book.replace('.pdf', '.epub')
-    doc.save(path_to_book)
-    return path_to_book
+    os.system('ebook-convert {} {}'.format(path_to_book.replace(' ', '\\ '), path_to_book.replace('.pdf', '.epub').replace(' ', '\\ ')))
+    return path_to_book.replace(".pdf", ".epub")
 
 def send_book_to_mail(path_to_book):
 
@@ -38,6 +35,8 @@ def send_book_to_mail(path_to_book):
         server.send_message(msg)
         print('A book has been sent - path: {}\n'.format(path_to_book))
 
+
+# boli me glavata, zashto sum oplel taka koda :DDD
 def check_book_in_list(book_name):
     with open('sent_books.txt', 'r') as sent_books:
         books = sent_books.read()
