@@ -11,6 +11,9 @@ load_dotenv()
 
 def send_book_to_mail(path_to_book):
 
+    if check_book_in_list(path_to_book[path_to_book.rfind('/')+1:]):
+        return
+
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
     server.login(os.getenv('EMAIL'), os.getenv('PASSWORD'))
@@ -26,6 +29,16 @@ def send_book_to_mail(path_to_book):
         server.send_message(msg)
         print('A book has been sent - path: {}\n'.format(path_to_book))
 
+def check_book_in_list(book_name):
+    with open('sent_books.txt', 'r') as sent_books:
+        books = sent_books.read()
+        if book_name in books:
+            return True
+        else:
+            sent_books.close()
+            with open('sent_books.txt', 'a') as sent_books:
+                sent_books.write(book_name+'\n')
+            return False
 
 def write_in_readme():
     result = [y for x in os.walk(os.path.dirname(os.path.realpath(__file__))) for y in glob(os.path.join(x[0], '*.pdf'))]
