@@ -6,13 +6,22 @@ from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import smtplib
+import aspose.words as aw
 
 load_dotenv()
+
+def transform_pdf_to_epub(path_to_book):
+    doc = aw.Document(path_to_book)
+    path_to_book = path_to_book.replace('.pdf', '.epub')
+    doc.save(path_to_book)
+    return path_to_book
 
 def send_book_to_mail(path_to_book):
 
     if check_book_in_list(path_to_book[path_to_book.rfind('/')+1:]):
         return
+
+    path_to_book = transform_pdf_to_epub(path_to_book)
 
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
