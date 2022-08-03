@@ -1,9 +1,10 @@
 Max Dama on Automated Trading.pdf
 The Intelligent Investor - Benjamin Graham.pdf
-Building Winning Algorithmic Trading Systems.pdf
-Blockchain Revolution.pdf
 Rich Dad Poor Dad - Robert Kiyosaki.pdf
 Clean Architecture A Craftsman Guide to Software Structure and Design.pdf
+Build APIs You Wont Hate.pdf
 Mastering Python Design Patterns.pdf
 The Pragmatic Programmer.pdf
-Build APIs You Wont Hate.pdf
+Building Decentralized Blockchain Applications: Learn How to Use Blockchain as the Foundation for Next Gen Apps by Shahid Shaikh.pdf
+Building Winning Algorithmic Trading Systems.pdf
+Blockchain Revolution.pdf
