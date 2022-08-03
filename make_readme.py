@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 from socket import gethostname
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 import smtplib
 
 load_dotenv()
@@ -64,7 +63,7 @@ def write_in_readme():
             base_dir = os.path.join(os.path.basename(os.path.dirname(path)), os.path.basename(path))
             base_dir = ''.join(base_dir[0:base_dir.find('/')])
             readme.write(
-                '<li><a href=\'https://github.com/asynchroza/books/blob/main/{}/{})\'>{}</a> - {}</li>\n'.format(base_dir, book_name_url, book_name, base_dir)
+                '<li><a href=\'https://github.com/asynchroza/books/blob/main/{}/{}\'>{}</a> - {}</li>\n'.format(base_dir, book_name_url, book_name, base_dir)
             )
 
         readme.close()
