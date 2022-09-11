@@ -8,3 +8,4 @@ The Pragmatic Programmer.pdf
 Building Decentralized Blockchain Applications: Learn How to Use Blockchain as the Foundation for Next Gen Apps by Shahid Shaikh.pdf
 Building Winning Algorithmic Trading Systems.pdf
 Blockchain Revolution.pdf
+Kubernetes Up and Running.pdf
