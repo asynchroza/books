@@ -10,3 +10,4 @@
 <li><a href='https://github.com/asynchroza/books/blob/main/Finance/Building%20Winning%20Algorithmic%20Trading%20Systems.pdf'>Building Winning Algorithmic Trading Systems</a> - Finance</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Finance/The%20Intelligent%20Investor%20-%20Benjamin%20Graham.pdf'>The Intelligent Investor - Benjamin Graham</a> - Finance</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Finance/Max%20Dama%20on%20Automated%20Trading.pdf'>Max Dama on Automated Trading</a> - Finance</li>
+<li><a href='https://github.com/asynchroza/books/blob/main/Politics/HOBBES.pdf'>HOBBES</a> - Politics</li>
