@@ -10,3 +10,4 @@ Building Winning Algorithmic Trading Systems.pdf
 Blockchain Revolution.pdf
 Kubernetes Up and Running.pdf
 HOBBES.pdf
+The Phoenix Project.pdf

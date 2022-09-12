@@ -5,6 +5,7 @@
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf'>Clean Architecture A Craftsman Guide to Software Structure and Design</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Build%20APIs%20You%20Wont%20Hate.pdf'>Build APIs You Wont Hate</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/DevOps/Kubernetes%20Up%20and%20Running.pdf'>Kubernetes Up and Running</a> - DevOps</li>
+<li><a href='https://github.com/asynchroza/books/blob/main/DevOps/The%20Phoenix%20Project.pdf'>The Phoenix Project</a> - DevOps</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Finance/Rich%20Dad%20Poor%20Dad%20-%20Robert%20Kiyosaki.pdf'>Rich Dad Poor Dad - Robert Kiyosaki</a> - Finance</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Finance/Blockchain%20Revolution.pdf'>Blockchain Revolution</a> - Finance</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Finance/Building%20Winning%20Algorithmic%20Trading%20Systems.pdf'>Building Winning Algorithmic Trading Systems</a> - Finance</li>
