@@ -12,4 +12,6 @@ Kubernetes Up and Running.pdf
 HOBBES.pdf
 The Phoenix Project.pdf
 Understanding the Linux Kernel.pdf
-Crafting Interpreters.pdf
+Crafting Interpreters.pdfTo Kill A Mockingbird.pdf
+1984 by George Orwell.pdf
+A Clockwork Orange.pdf
