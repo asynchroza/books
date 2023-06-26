@@ -3,6 +3,7 @@
 <li><a href='https://github.com/asynchroza/books/blob/main/DevOps/The%20Phoenix%20Project.pdf'>The Phoenix Project</a> - DevOps</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Technology/Understanding%20the%20Linux%20Kernel.pdf'>Understanding the Linux Kernel</a> - Technology</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Politics/HOBBES.pdf'>HOBBES</a> - Politics</li>
+<li><a href='https://github.com/asynchroza/books/blob/main/Programming/Writing%20an%20interpreter%20in%20go.pdf'>Writing an interpreter in go</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/The%20Pragmatic%20Programmer.pdf'>The Pragmatic Programmer</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf'>Clean Architecture A Craftsman Guide to Software Structure and Design</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Build%20APIs%20You%20Wont%20Hate.pdf'>Build APIs You Wont Hate</a> - Programming</li>
