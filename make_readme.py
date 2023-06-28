@@ -7,6 +7,7 @@ import smtplib
 
 load_dotenv()
 
+#! THIS CODE IS REALLY BADDDDDD, but it works tho
 
 # sudo apt install calibre
 def transform_pdf_to_epub(path_to_book):
