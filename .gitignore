@@ -1,3 +1,4 @@
 .env
 sent_books.txt
 *.epub
+.DS_Store

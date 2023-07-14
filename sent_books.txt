@@ -16,3 +16,5 @@ Crafting Interpreters.pdfTo Kill A Mockingbird.pdf
 1984 by George Orwell.pdf
 A Clockwork Orange.pdf
 Writing an interpreter in go.pdf
+The Four Agreements - Don Miguel Ruiz.pdf
+You are a badass - Jen Sincero.pdf
