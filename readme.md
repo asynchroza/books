@@ -20,3 +20,4 @@
 <li><a href='https://github.com/asynchroza/books/blob/main/Novels/To%20Kill%20A%20Mockingbird.pdf'>To Kill A Mockingbird</a> - Novels</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Novels/1984%20by%20George%20Orwell.pdf'>1984 by George Orwell</a> - Novels</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Novels/A%20Clockwork%20Orange.pdf'>A Clockwork Orange</a> - Novels</li>
+<li><a href='https://github.com/asynchroza/books/blob/main/Novels/Digital%20Fortress%20-%20Dan%20Brown.pdf'>Digital Fortress - Dan Brown</a> - Novels</li>
