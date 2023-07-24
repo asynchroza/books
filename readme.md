@@ -4,6 +4,7 @@
 <li><a href='https://github.com/asynchroza/books/blob/main/Technology/Understanding%20the%20Linux%20Kernel.pdf'>Understanding the Linux Kernel</a> - Technology</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Self-Improvement/The%20Four%20Agreements%20-%20Don%20Miguel%20Ruiz.pdf'>The Four Agreements - Don Miguel Ruiz</a> - Self-Improvement</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Self-Improvement/You%20are%20a%20badass%20-%20Jen%20Sincero.pdf'>You are a badass - Jen Sincero</a> - Self-Improvement</li>
+<li><a href='https://github.com/asynchroza/books/blob/main/Self-Improvement/The%20Subtle%20Art%20of%20Not%20Giving%20a%20Fuck.pdf'>The Subtle Art of Not Giving a Fuck</a> - Self-Improvement</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Politics/HOBBES.pdf'>HOBBES</a> - Politics</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Writing%20an%20interpreter%20in%20go.pdf'>Writing an interpreter in go</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/The%20Pragmatic%20Programmer.pdf'>The Pragmatic Programmer</a> - Programming</li>

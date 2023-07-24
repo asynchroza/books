@@ -19,3 +19,4 @@ Writing an interpreter in go.pdf
 The Four Agreements - Don Miguel Ruiz.pdf
 You are a badass - Jen Sincero.pdf
 Digital Fortress - Dan Brown.pdf
+The Subtle Art of Not Giving a Fuck.pdf
