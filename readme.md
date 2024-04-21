@@ -9,6 +9,7 @@
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Writing%20an%20interpreter%20in%20go.pdf'>Writing an interpreter in go</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/The%20Pragmatic%20Programmer.pdf'>The Pragmatic Programmer</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf'>Clean Architecture A Craftsman Guide to Software Structure and Design</a> - Programming</li>
+<li><a href='https://github.com/asynchroza/books/blob/main/Programming/Network%20Programming%20With%20Go.pdf'>Network Programming With Go</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Build%20APIs%20You%20Wont%20Hate.pdf'>Build APIs You Wont Hate</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Mastering%20Python%20Design%20Patterns.pdf'>Mastering Python Design Patterns</a> - Programming</li>
 <li><a href='https://github.com/asynchroza/books/blob/main/Programming/Building%20Decentralized%20Blockchain%20Applications:%20Learn%20How%20to%20Use%20Blockchain%20as%20the%20Foundation%20for%20Next%20Gen%20Apps%20by%20Shahid%20Shaikh.pdf'>Building Decentralized Blockchain Applications: Learn How to Use Blockchain as the Foundation for Next Gen Apps by Shahid Shaikh</a> - Programming</li>
